@@ -9,7 +9,7 @@ console.log("Dear Beyonce,")
 console.log("We have calculated your total earnings this year.")
 console.log("You have earned " + beyoncesMoney)
 console.log("Of" + beyoncesMoney + " some portion derives from your live performances.")
-console.log("Of" + beyoncesMoney + " some portion derives from music sales.");
+console.log("Of" + beyoncesMoney + " some portion derives from music sales.")
 
 // DON'T DO THIS PART YET:
 // Now that we understand what a variable is
